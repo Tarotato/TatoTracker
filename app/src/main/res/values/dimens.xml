@@ -1,4 +1,5 @@
 <resources>
     <dimen name="fab_margin">16dp</dimen>
     <dimen name="camera_icon">100dp</dimen>
+    <dimen name="input_width">215dp</dimen>
 </resources>
