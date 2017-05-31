@@ -1,5 +1,8 @@
 <resources>
     <dimen name="fab_margin">16dp</dimen>
-    <dimen name="camera_icon">100dp</dimen>
+    <dimen name="calendar_margin">5dp</dimen>
+    <dimen name="camera_icon">90dp</dimen>
+    <dimen name="calendar">38dp</dimen>
     <dimen name="input_width">215dp</dimen>
+    <dimen name="start_margin">35dp</dimen>
 </resources>

@@ -1,15 +1,16 @@
 <resources>
     <string name="app_name">Tracker</string>
-    <string name="action_settings">Settings</string>
-    <string name="choose_image">Choose an Image</string>
+    <string name="actionSettings">Settings</string>
+    <string name="chooseImage">Choose an Image</string>
     <string name="save">Save</string>
-    <string name="date_purchased">Purchased</string>
-    <string name="product">Product</string>
-    <string name="date_expires">Expires</string>
+    <string name="edit">Edit</string>
+    <string name="datePurchased">Purchased</string>
+    <string name="dateExpires">Expires</string>
     <string name="name">Name</string>
     <string name="tags">Tags</string>
-    <string name="enter_name">Enter Item Name Here</string>
-    <string-array name="item_tags">
+    <string name="chooseDate">Choose a date</string>
+    <string name="disposed">Disposed</string>
+    <string-array name="itemTags">
         <item>Other</item>
         <item>Face</item>
         <item>Eyes</item>
